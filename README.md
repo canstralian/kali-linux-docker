@@ -72,3 +72,5 @@ You may also want to join [THE ONEMARCFIFTY DISCORD SERVER](https://discord.com/
 ## TODO
 
 - Disable desktop sleep, screenlock, etc.
+
+[![Run on Repl.it](https://replit.com/badge/github/canstralian/tafe-assignments)](https://replit.com/new/github/canstralian/tafe-assignments)
